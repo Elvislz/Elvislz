@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Elvis, I am an Electronic Engineering student with a passion for automation and programming. 
+- 🌱 I am currently learning how to create a web application and I’m studying about the IoT.
+- 👯 I am looking for collaboration in automation and home automation projects.
+- 🤔 I’m looking for help with my creation project on a web page.
+- 💬 Ask me about electronics and related industrial automation topics.
+- 📫 How to contact me: Just send me a message to my email: elvis.lipa.s@uni.pe
+- ⚡ Fun fact: I want to learn everything and time is not enough for me.
 <!--
 **Elvislz/Elvislz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
